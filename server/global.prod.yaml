@@ -1,0 +1,9 @@
+PORT: 5000
+
+db:
+  type: 'mysql'
+  host: 'localhost'
+  port: 3306
+  username: 'root'
+  password: 'cjl20020206'
+  database: 'shop'

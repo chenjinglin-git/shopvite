@@ -1,0 +1,12 @@
+PORT: 3003
+
+DB:
+  TYPE: 'mysql'
+  HOST: 'localhost'
+  PORT: 3306
+  USERNAME: 'root'
+  PASSWORD: 'cjl20020206'
+  DATABASE: 'shop'
+
+JWTCONSTANTS:
+  SECRET: 'shopvite'
